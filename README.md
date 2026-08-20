@@ -55,7 +55,7 @@ Antes de modificar la aplicación se hizo un diagnóstico. Se encontró que el a
 
 La iteración permitió detectar las dos cargas, pero la lectura de 60 litros correspondiente a AG 726 YE todavía quedó como REVISAR. La aplicación no inventó ese valor ni lo sumó al total seguro. Esto muestra que sigue siendo una primera versión y que el reconocimiento puede fallar según la calidad, el tamaño o el contraste de la foto.
 
-Durante el desarrollo también hubo demoras y cortes de red al instalar dependencias. La publicación privada presentó problemas de acceso, mientras que la aplicación local sí funcionó. Además, al cerrarse Codex se detuvo el servidor local y fue necesario volver a iniciarlo para continuar las pruebas.
+Durante el desarrollo también hubo demoras y cortes de red al instalar dependencias y una demora prolongada al configurar Tesseract OCR en español. La publicación privada presentó problemas de acceso, mientras que la aplicación local sí funcionó. Además, al cerrarse Codex se detuvo el servidor local y fue necesario volver a iniciarlo para continuar las pruebas.
 
 ## Qué aprendí
 
