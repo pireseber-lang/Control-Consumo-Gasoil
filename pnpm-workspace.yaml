@@ -1,0 +1,9 @@
+onlyBuiltDependencies:
+  - esbuild
+  - sharp
+  - tesseract.js
+  - workerd
+confirmModulesPurge: false
+dangerouslyAllowAllBuilds: true
+allowBuilds:
+  tesseract.js: set this to true or false
